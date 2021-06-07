@@ -7,7 +7,7 @@ The above is the solution for the following brief:
 
 The app should have a dummy login screen with username, password and login button. On login, it should show some data in a tableview if you’re developing iOS application or in a list view if you’re developing Android application. Data in the list can be hardcoded list of animals, birds, or anything that you wish to show.
 
-##Developer Notes
+## Developer Notes
 
 This example assumes that no actual login authentication process was to be implemented at this stage.
 
