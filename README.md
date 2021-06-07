@@ -11,6 +11,6 @@ The above is the solution for the following brief:
 
 This example assumes that no actual login authentication process was to be implemented at this stage.
 
-The example also features the items listed in the tableview hardcoded in the form of a basic string array, as this was the simplest solution.
+The example also features the items listed in the tableview hardcoded in the form of a basic string array, as this was the most efficient solution.
 
 Created by Robert Carbonaro on 05/06/2021 using Xcode 12.4
